@@ -1,4 +1,5 @@
-### Hi there 👋
+### 💫 About Me:
+I'm Rishiraj Singh—a fervent explorer of the realms where Artificial Intelligence and Machine Learning intersect. Delving deep into statistics and predictive modeling, I've crafted potent algorithms and unearthed invaluable insights. Thriving amidst challenges, I confront the unknown with unwavering confidence and insatiable curiosity. Let's embark on this journey of innovation together.
 
 <!--
 **Rishiraj-singh7/Rishiraj-singh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
